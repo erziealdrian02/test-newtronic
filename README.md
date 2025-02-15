@@ -83,7 +83,7 @@ resources/
    ```
 5. **Buka di browser**
    ```
-   http://127.0.0.1:8000
+   http://127.0.0.1:8000/login
    ```
 
 ## 🔥 Cara Menggunakan
@@ -167,6 +167,10 @@ resources/
    php artisan websockets:serve
    php artisan serve
    ```
+7. **Nyalahkan WebSocket di browser**
+   ``
+   http://127.0.0.1:8000/laravel-websockets
+   ``
 6. **Buka di browser**
    ```
    http://127.0.0.1:8000/games
